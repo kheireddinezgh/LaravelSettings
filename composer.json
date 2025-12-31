@@ -1,7 +1,7 @@
 {
-    "name":        "kheireddinezgh/laravel-settings",
+    "name":        "arcanedev/laravel-settings",
     "description": "This package allows you to persists configs/settings for Laravel projects.",
-    "homepage":    "https://github.com/kheireddinezgh/LaravelSettings",
+    "homepage":    "https://github.com/ARCANEDEV/LaravelSettings",
     "keywords":    [
         "arcanedev", "laravel", "config", "settings", "json", "array", "database", "db"
     ],
