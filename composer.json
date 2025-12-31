@@ -46,7 +46,7 @@
             "type": "vcs",
             "url": "https://github.com/kheireddinezgh/Support"
         }
-    ]
+    ],
     "extra": {
         "branch-alias": {
             "dev-develop": "11.x-dev"
